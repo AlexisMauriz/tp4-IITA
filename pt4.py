@@ -2,6 +2,7 @@
 #Serie de Fibonacci: Escriba una función fibonacci(n) que devuelva los n primeros numeros 
 #de la serie de Fibonacci. En esta serie, los primeros dos números son 0 y 1, y cada sucesivo 
 #número es la suma de los dos números inmediatamente anteriores (ejemplo: 0,1,1,2,3,5,8, …).
+
 print()
 print("Ejersicio 1")
 print()
